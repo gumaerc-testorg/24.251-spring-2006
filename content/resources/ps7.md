@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes information on Foster's view on the Davidson problem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-251-introduction-to-philosophy-of-language-spring-2006/67e735afe0b6155d5cf0d1a4f5a34031_ps7.pdf
+file: /media/courses/24-251-introduction-to-philosophy-of-language-spring-2006/67e735afe0b6155d5cf0d1a4f5a34031_ps7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps7.pdf
 uid: 67e735af-e0b6-155d-5cf0-d1a4f5a34031
