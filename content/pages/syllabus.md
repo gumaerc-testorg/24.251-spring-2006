@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section includes course description, grading, information
+  of problem sets, exams, and an acknowledgements
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
