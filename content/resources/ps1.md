@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/bab52dd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1.pdf
 uid: bab52ddf-f21c-87d6-19c7-a35c4226e155
 ---
 This resource includes information on non?natural meaning, and re?ective paradox.
-

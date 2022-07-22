@@ -5,6 +5,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/7dc983e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5.pdf
 uid: 7dc983ee-fc72-9e94-2cc3-0acc5ae307c2
 ---
 This resource includes information on different theories given by Davidson.
-

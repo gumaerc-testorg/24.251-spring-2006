@@ -6,6 +6,7 @@ file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/c6f752c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps6.pdf
 uid: c6f752c7-f3e3-30cb-b462-5faff0dfc34c
 ---
 This resource includes information on criticisms by Davidson, and logical forms.
-
