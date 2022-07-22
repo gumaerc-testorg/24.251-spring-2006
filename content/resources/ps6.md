@@ -2,9 +2,17 @@
 content_type: resource
 description: This resource includes information on criticisms by Davidson, and logical
   forms.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-251-introduction-to-philosophy-of-language-spring-2006/c6f752c7f3e330cbb4625faff0dfc34c_ps6.pdf
+file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/c6f752c7f3e330cbb4625faff0dfc34c_ps6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+parent_uid: d1fd1188-fc54-0a0e-e525-9911ddd6f5f0
 resourcetype: Document
 title: ps6.pdf
 uid: c6f752c7-f3e3-30cb-b462-5faff0dfc34c
 ---
+This resource includes information on criticisms by Davidson, and logical forms.
