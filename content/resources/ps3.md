@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on theories of meaning and learnable
   languages.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/852f453c4351fa95d9e51f8991e412f2_ps3.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2006/852f453c4351fa95d9e51f8991e412f2_ps3.pdf
+file_size: 29816
 file_type: application/pdf
 learning_resource_types:
 - Assignments

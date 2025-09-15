@@ -3,7 +3,8 @@ content_type: resource
 description: This resource includes information on radical translation, ?affirmative
   stimulus meaning?, Lo, a unicorn?, and difference between an occasion sentence and
   an observation sentence?
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/000b25a04f0567e120147006ecbc19d5_ps8.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2006/000b25a04f0567e120147006ecbc19d5_ps8.pdf
+file_size: 44137
 file_type: application/pdf
 learning_resource_types:
 - Assignments

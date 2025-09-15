@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on conversational implicature, and
   Cooperative principle.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/9766c38119f76d90c03ecbae0dd1c0d7_ps2.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2006/9766c38119f76d90c03ecbae0dd1c0d7_ps2.pdf
+file_size: 35072
 file_type: application/pdf
 learning_resource_types:
 - Assignments

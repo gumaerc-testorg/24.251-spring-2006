@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on non?natural meaning, and re?ective
   paradox.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/bab52ddff21c87d619c7a35c4226e155_ps1.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2006/bab52ddff21c87d619c7a35c4226e155_ps1.pdf
+file_size: 34073
 file_type: application/pdf
 learning_resource_types:
 - Assignments

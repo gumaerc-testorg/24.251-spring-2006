@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on Tarski?s schema, and Tarski?s schema.
-file: /courses/24-251-introduction-to-philosophy-of-language-spring-2006/a9693343e27543a802318d0f92297249_ps4.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-spring-2006/a9693343e27543a802318d0f92297249_ps4.pdf
+file_size: 84573
 file_type: application/pdf
 learning_resource_types:
 - Assignments
