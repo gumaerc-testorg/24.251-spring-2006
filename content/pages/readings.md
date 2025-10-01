@@ -118,7 +118,7 @@ Davidson, Donald. "Theories of Meaning and Learnable Languages." _Inquiries into
 Tarski on Truth
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/nature-truth) Tarski, Alfred. "The Semantic Conception of Truth and the Foundations of Semantics." _Philosophy and Phenomenological Research_ 4 (1944): 341-75. Reprinted in Lynch, Michael. [_The Nature of Truth_](https://mitpress.mit.edu/books/nature-truth). Cambridge, MA: MIT Press, 2001. ISBN: 0262621452.
+{{% resource_link "cdb44647-6d91-4398-a0e8-886a8a6fcb31" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tarski, Alfred. "The Semantic Conception of Truth and the Foundations of Semantics." _Philosophy and Phenomenological Research_ 4 (1944): 341-75. Reprinted in Lynch, Michael. {{% resource_link "cdb44647-6d91-4398-a0e8-886a8a6fcb31" "_The Nature of Truth_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 0262621452.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Tarski on Truth
 Tarski on Truth (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/nature-truth) Tarski, Alfred. "The Semantic Conception of Truth and the Foundations of Semantics." _Philosophy and Phenomenological Research_ 4 (1944): 341-75. Reprinted in Lynch, Michael. [_The Nature of Truth_](https://mitpress.mit.edu/books/nature-truth). Cambridge, MA: MIT Press, 2001. ISBN: 0262621452.
+{{% resource_link "cdb44647-6d91-4398-a0e8-886a8a6fcb31" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tarski, Alfred. "The Semantic Conception of Truth and the Foundations of Semantics." _Philosophy and Phenomenological Research_ 4 (1944): 341-75. Reprinted in Lynch, Michael. {{% resource_link "cdb44647-6d91-4398-a0e8-886a8a6fcb31" "_The Nature of Truth_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 0262621452.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +214,7 @@ Foster, John. "Meaning and Truth-Theory." In _Truth and Meaning: Essays in Seman
 Quine on Radical Interpretation
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/word-and-object-1) Quine, W. V. O. [_Word and Object_](https://mitpress.mit.edu/books/word-and-object-1). Cambridge, MA: MIT Press, 1960, chapter 2, part 1, and part 2. ISBN: 0262670011.
+{{% resource_link "ed4b7f3e-906e-4907-b9db-5db8a3ca8ff6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Quine, W. V. O. {{% resource_link "ed4b7f3e-906e-4907-b9db-5db8a3ca8ff6" "_Word and Object_" %}}. Cambridge, MA: MIT Press, 1960, chapter 2, part 1, and part 2. ISBN: 0262670011.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +226,7 @@ Quine on Radical Interpretation
 Quine on Radical Interpretation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/word-and-object-1) Quine, W. V. O. [_Word and Object_](https://mitpress.mit.edu/books/word-and-object-1). Cambridge, MA: MIT Press, 1960, chapter 2. ISBN: 0262670011.
+{{% resource_link "ed4b7f3e-906e-4907-b9db-5db8a3ca8ff6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Quine, W. V. O. {{% resource_link "ed4b7f3e-906e-4907-b9db-5db8a3ca8ff6" "_Word and Object_" %}}. Cambridge, MA: MIT Press, 1960, chapter 2. ISBN: 0262670011.
 {{< tdclose >}}
 
 {{< trclose >}}

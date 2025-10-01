@@ -91,7 +91,7 @@ Each exam will consist of a (take-home) essay. The midterm must contain no more 
 
 Essays may be on any topic which engages with the material discussed in class. I encourage you to contact me beforehand to discuss possible topics and to talk about how your essay is going.
 
-Writing a good philosophy essay can be very different from writing a good essay in other subjects. Please read James Pryor's "[Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html)."
+Writing a good philosophy essay can be very different from writing a good essay in other subjects. Please read James Pryor's "{{% resource_link "52d933c5-79bc-4629-8bc5-08b4bd4773db" "Guidelines on Writing a Philosophy Paper" %}}."
 
 Your essay should conform to these guidelines, and will be graded in accordance with the criteria listed in the section of the guidelines entitled 'How You'll Be Graded'.
 
